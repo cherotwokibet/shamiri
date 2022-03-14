@@ -8,7 +8,7 @@ Install the below tools/packages
 | Serial No   | Software           | Version   | Installation site |
 | :---------: | :----------------: | :-------: | :---------------- |
 | 1           | Node.js            | >= 16.13.1| [Install NodeJS](https://nodejs.org/en/download/) |
-| 2           | expo-cli           | >= 47.1.1 | [Install Expo](https://www.npmjs.com/package/expo-cli) |
+| 2           | expo-cli           | >= 5.2.0  | [Install Expo](https://www.npmjs.com/package/expo-cli) |
 
 
 ### Setup Instructions
