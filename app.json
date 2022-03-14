@@ -1,8 +1,9 @@
 {
   "expo": {
-    "name": "Native1",
-    "slug": "Native1",
+    "name": "Shamiri Frontend Test",
+    "slug": "shamiri-frontend",
     "version": "1.0.0",
+    "privacy":"public",
     "orientation": "portrait",
     "icon": "./app/assets/icon.png",
     "splash": {
@@ -23,10 +24,14 @@
       "adaptiveIcon": {
         "foregroundImage": "./app/assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.frontend.shamiri",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./app/assets/favicon.png"
-    }
+    },
+    "description": "Frontend Test",
+    "githubUrl": "https://github.com/cherotwokibet/shamiri"
   }
 }
